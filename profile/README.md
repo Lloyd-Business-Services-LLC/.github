@@ -2,9 +2,9 @@
 
 ### Our dice roller collection
 
-[Our dice roller repository](../../../../diceRollers) contain implementations of a dice rolling server and client system in different programming languages.
+[Our dice roller repository](https://github.com/Lloyd-Business-Services-LLC/diceRollers) contain implementations of a dice rolling server and client system in different programming languages.
 
-Currently, we've merged in only the [node.js implementation](../../../../diceRollers/README.md#nodejs).  The others will be merged in to the repo in the near future.
+Currently, we've merged in only the [node.js implementation](https://github.com/Lloyd-Business-Services-LLC/diceRollers/README.md#nodejs).  The others will be merged in to the repo in the near future.
 
 
 <!--
