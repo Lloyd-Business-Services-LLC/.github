@@ -4,7 +4,7 @@
 
 [Our dice roller repository](../../../../diceRollers) contain implementations of a dice rolling server and client system in different programming languages.
 
-Currently, we've merged in only the node.js implementation.  The others will be merged in to the repo in the near future.
+Currently, we've merged in only the [node.js implementation](../../../../diceRollers/blob/master/README.md#nodejs).  The others will be merged in to the repo in the near future.
 
 
 <!--
