@@ -4,7 +4,7 @@
 
 [Our dice roller repository](https://github.com/Lloyd-Business-Services-LLC/diceRollers) contain implementations of a dice rolling server and client system in different programming languages.
 
-Currently, we've merged in only the [node.js implementation](https://github.com/Lloyd-Business-Services-LLC/diceRollers#nodejs).  The others will be merged in to the repo in the near future.
+Currently, we've only merged in the [GOLANG](https://github.com/Lloyd-Business-Services-LLC/diceRollers/#go) and [node.js](https://github.com/Lloyd-Business-Services-LLC/diceRollers#nodejs) implementations. The others will be merged in to the repo in the near future.
 
 
 <!--
